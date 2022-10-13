@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "337654912662",
+    "firebase_url": "https://ticket-queue-system-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ticket-queue-system",
+    "storage_bucket": "ticket-queue-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337654912662:android:1ffcec8ea4d65d036894b7",
+        "android_client_info": {
+          "package_name": "com.example.lumos_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337654912662-i353ttbnsha1m8fg222ne5icdn5g28i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdv4CV9WHLFpq0JNMaeBZszMnduZm5PeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337654912662-i353ttbnsha1m8fg222ne5icdn5g28i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
